@@ -51,6 +51,6 @@ try:
 except KeyboardInterrupt:
     print("[+] Detected CTRL + C ... quitting.")
 
-#router ip: 192.168.22.2
+#router ip:
 #target ip: windows dummy machine
-#router MAC: 00:50:56:e4:20:3e
+#router MAC: 
